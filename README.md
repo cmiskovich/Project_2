@@ -1,7 +1,7 @@
 # Project_2
 # Primary application file
 
-Produce a jupyter lab file to predict whether Alphabet Soup funding applicants will be succesful you will create a binary classification model using a deep nerual network.
+Produce a Google Colab file to compare four psychedelic stocks, a psychedelic ETF, and S&P 500 comparing them on volatility, profits, and cumuluative profits.  The psychedelic stocks are Mind Medicine (MNMD), Cybin Inc (CYBN), ATAI Life Sciences (ATAI), and Compass Pathways PLC (CMPS).  The ETF is PSYK ETF (PSYK) and S&P 500 is (SPY). 
 
 
 ---
@@ -28,6 +28,8 @@ Visual Studio Code
     
 Jupyter Lab 
     Version 3.2.9
+    
+Google.colab
     
 
 
@@ -61,114 +63,54 @@ After comparing the two alternative models you then create a HDF5 file and save 
 
 ## Information about datasets
 
-Data frame applicants to be used on a neural network model:
+Create the alpaca API object:
 
-applicant_data_df
+alpaca
 
-List of categorical variables:
+Format current data as ISO format:
 
-categorical_variables
+start_date, end_date
 
-Data sets for OneHotEncoder:
+Set the tickers for psychedelic stocks and ETF:
 
-enc
+psyche_tickers
 
-encoded_data
+Obtain 1 year worth of data for tickers:
 
-Add numerical variables from original data frame to the one hot encoding dataframe:
+psychedelics_stocks
 
-numerical_variables_df
+Reorganize Dataframe and separate ticker data:
 
-attition_df
+MNMD, CYBN, ATAI, CMPS, PSYK
 
-Create the X and y datasets:
+Concatenate DataFrames for psychedelic stocks using MNMD, CYBN, ATAI, CMPS:
 
-X, y
+mind_trip_portfolio
 
-Split the dat using train test spilt function:
+Create DataFrame for psychedelic ETF:
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
+psyk_psychedelics_eft
 
-Scale the X data:
+Create DataFrame for S&P 500:
 
-scaler
-
-X_scaler
-
-X_train_scaled
-
-X_test_scaled
-
-Create a deep neural network:
-
-Original dataset using 2 hidden layers:
-
-number_input_features
-
-number_output_neurons
-
-hidden_nodes_layer1
-
-hidden_nodes_layer2
-
-Alternative Model 1 using 1 hidden layer:
-
-number_input_features
-
-number_output_neurons_A1
-
-hidden_nodes_layer1_A1
-
-Alternative Model 2 using 3 hidden layers:
-
-number_input_features
-
-number_output_neurons_A2
-
-hidden_nodes_layer1_A2
-
-hidden_nodes_layer2_A2
-
-hidden_nodes_layer3_A2
-
-Create, compile, fit, and evaluate models for neural network:
-
-nn, nn_A1, nn_A2
-
-model, fit_model_A1, fit_model_A2
-
-model_loss, model_accuracy
-
-Create HDF5 files for each dataset:
-
-AlphabetSoup.h5
-
-AlphabetSoup_A1.h5
-
-AlphabetSoup_A2.h5
-
-
+sp_tickers
 
 
 ---
 
 ## Libraries used in analysis
 
+os
+
+requests
+
 pandas
 
-Path
+dotenv
 
-tensorflow
+alpaca_trade_api
 
-tensorflow.keras.layers, Dense
-
-tensorflow.keras.models, Sequential
-
-train_test_split
-
-StandardScaler
-
-OneHotEncoder
+hvplot
 
 ---
 
