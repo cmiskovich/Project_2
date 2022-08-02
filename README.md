@@ -125,6 +125,18 @@ Email: cmiskovich@verizon.net
 
 [LinkedIn](https://www.linkedin.com/in/christopher-miskovich-9a61b0234/) 
 
+
+
+**Antiwan Maxwell**
+
+Contact Information:
+
+Email: antiwan.maxwell@outlook.com
+
+[LinkedIn](https://www.linkedin.com/in/antiwan-maxwell-205a11233/) 
+
+
+
 ---
 
 ## License
