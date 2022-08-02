@@ -26,8 +26,6 @@ Visual Studio Code
     V8: 9.8.177.11-electron.0
     OS: Darwin x64 21.4.0
     
-Jupyter Lab 
-    Version 3.2.9
     
 Google.colab
     
