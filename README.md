@@ -1,7 +1,7 @@
 # Project_2
 # Primary application file
 
-Produce a Google Colab file to compare four psychedelic stocks, a psychedelic ETF, and S&P 500 comparing them on volatility, profits, and cumuluative profits.  The psychedelic stocks are Mind Medicine (MNMD), Cybin Inc (CYBN), ATAI Life Sciences (ATAI), and Compass Pathways PLC (CMPS).  The ETF is PSYK ETF (PSYK) and it has 59,592 shares in 26 different psychedelic stocks with holdings of $94,651 including $2,509 in cash as of 8/1/2022.  The Standard and Poor's 500, or simply the S&P 500 (SPY), is a stock market index tracking the stock performance of 500 large companies listed on exchanges in the United States. It is one of the most commonly followed equity indices.
+Produce a Google Colab file to compare four psychedelic stocks, a psychedelic ETF, and S&P 500 comparing them on volatility, profits, and cumuluative profits.  The psychedelic stocks are Mind Medicine (MNMD), Cybin Inc (CYBN), ATAI Life Sciences (ATAI), and Compass Pathways PLC (CMPS).  The ETF is PSYK ETF (PSYK) and it has 59,592 shares in 26 different psychedelic stocks with holdings of $1,175,934 including $2,509 in cash as of 8/1/2022.  The Standard and Poor's 500, or simply the S&P 500 (SPY), is a stock market index tracking the stock performance of 500 large companies listed on exchanges in the United States. It is one of the most commonly followed equity indices.
 
 
 ---
