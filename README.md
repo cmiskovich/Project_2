@@ -15,6 +15,8 @@ Python
 
 Terminal
     Version 2.12.5 (444)
+ 
+ Git version 2.24.0.windows.2
 
 Visual Studio Code
     Version: 1.66.2 (Universal)
