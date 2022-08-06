@@ -16,7 +16,7 @@ Python
 Terminal
     Version 2.12.5 (444)
  
- Git version 2.24.0.windows.2
+Git version 2.24.0.windows.2
 
 Visual Studio Code
     Version: 1.66.2 (Universal)
@@ -73,32 +73,121 @@ MNMD, CYBN, ATAI, CMPS, PSYK
 
 Concatenate DataFrames for psychedelic stocks using MNMD, CYBN, ATAI, CMPS:
 
-mind_trip_portfolio
+mind_trip_etf
+
+Plot closing prices of mind_trip_etf:
+
+MNMD_plot, CYBN_plot, ATAI_plot, CMPS_plot
+
+Composite plots of mind_trip_etf stocks:
+
+mind_trip_composite_plots
+
+Daily returns for mind_trip_etf:
+
+mind_trip_daily_returns_df
+
+Plot daily returns:
+
+mind_trip_daily_returns_plot
 
 Create DataFrame for psychedelic ETF:
 
 psyk_psychedelics_eft
 
+Plot closing prices for PSYK ETF:
+
+psyk_plot
+
+Plot daily returns for PSYK ETF:
+
+psyk_daily_return_plot
+
 Create DataFrame for S&P 500:
 
-sp_tickers
+sp500
 
+Plot S&P 500 closing price:
+
+sp_500_daily_return_plot
+
+Average closing price for the mind_trip_etf stocks:
+
+mind_trip_average
+
+Model and fit model for mind_trip_etf and later plot pedictions:
+
+mind_trip_model
+
+Creat a future data frame to hold predictions for mind_trip_etf:
+
+future_mind_trip
+
+Predict the trend using data from future_mind_trip:
+
+forecast_mind_trip_etf
+
+Closing prices for PSYK:
+
+psyk_closing_prices_df
+
+Model and fit model for PSYK and later plot pedictions:
+
+psyk_model
+
+Creat a future data frame to hold predictions for psyk_closing_prices_df:
+
+future_psyk_df
+
+Predict the trend using data from future_psyk_df:
+
+forecast_psyk
+
+Closing prices for S&P 500:
+
+sp500_close_df
+
+Model and fit model for S&P 500 and later plot pedictions:
+
+sp500_model
+
+Creat a future data frame to hold predictions for sp500_close_df:
+
+future_sp500_df
+
+Predict the trend using data from future_psyk_df:
+
+forecast_sp500
 
 ---
 
 ## Libraries used in analysis
 
+colab_env
+
+pandas
+
 os
 
 requests
 
-pandas
+hvplot
 
-dotenv
+holoviews
 
 alpaca_trade_api
 
-hvplot
+datetime
+
+numpy
+
+dotenv
+
+prophet
+
+google.colab
+
+matplotlib
 
 ---
 
