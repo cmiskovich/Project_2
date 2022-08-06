@@ -55,6 +55,7 @@ We then ran daily returns for the three segments and plotted them:
 ![Daily Returns](/Daily_Returns.png)
 
 Finally we modeled, fit and predicted the next 90 days for each segment:
+![90 day forcasts](/90_DAY_FORCAST.png)
 
 
 
