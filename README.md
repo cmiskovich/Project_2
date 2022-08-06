@@ -52,6 +52,11 @@ S&P 500:
 ![SP500](/SP500_Close.png)
 
 
+We then ran daily returns for the three segments and plotted them:
+
+![Daily Returns](/Daily_Returns.png)
+
+
 
 
 
