@@ -37,7 +37,9 @@ Google.colab
 
 ## General information about analysis.
 
-We pulled data for the past year for the our four stocks (MNMD, CYBN, ATAI, and CMPS), along with the psychedelic ETF (PSYK), and also the S&P 500 (SPY).  After that we created data frames for each of them with a datetime stamp and closing price.  
+We pulled data for the past year for the our four stocks which we labeled mind_trip_etf (MNMD, CYBN, ATAI, and CMPS), along with the psychedelic ETF (PSYK) labeled psyk_psychedelics_eft, and also the S&P 500 (SPY) labeled sp500.  After that we created data frames for each of them with a datetime stamp and closing price and plotted closing prices for each segment.
+
+
 
 
 
