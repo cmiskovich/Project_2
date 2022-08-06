@@ -49,6 +49,8 @@ We pulled data for the past year for the our four stocks which we labeled mind_t
 
 
 
+
+
 ---
 
 ## Information about datasets
