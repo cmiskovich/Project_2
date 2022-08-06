@@ -41,7 +41,7 @@ We pulled data for the past year for the our four stocks which we labeled mind_t
 
 Mind Trip ETF:
 
-![Mind Trip ETF closing prices](/Mind trip ETF closing prices.png)
+![Mind Trip ETF closing prices](/Mind_trip_ETF_closing_prices.png)
 
 
 
