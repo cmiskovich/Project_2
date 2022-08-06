@@ -40,12 +40,10 @@ Google.colab
 We pulled data for the past year for the our four stocks which we labeled mind_trip_etf (MNMD, CYBN, ATAI, and CMPS), along with the psychedelic ETF (PSYK) labeled psyk_psychedelics_eft, and also the S&P 500 (SPY) labeled sp500.  After that we created data frames for each of them with a datetime stamp and closing price and plotted closing prices for each segment.
 
 Mind Trip ETF:
-
 ![Mind Trip ETF closing prices](/Mind_trip_ETF_closing_prices.png)
 
 
 PSYK ETF:
-
 ![PSYK ETF](/PSYK_ETF_CLOSE.png)
 
 S&P 500:
@@ -55,6 +53,10 @@ S&P 500:
 We then ran daily returns for the three segments and plotted them:
 
 ![Daily Returns](/Daily_Returns.png)
+
+Finally we modeled, fit and predicted the next 90 days for each segment:
+
+
 
 
 
