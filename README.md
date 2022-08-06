@@ -44,6 +44,10 @@ Mind Trip ETF:
 ![Mind Trip ETF closing prices](/Mind_trip_ETF_closing_prices.png)
 
 
+PSYK ETF:
+
+![PSYK ETF](/PSYK_ETF_CLOSE.png)
+
 
 
 
