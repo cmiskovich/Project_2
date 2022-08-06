@@ -57,17 +57,7 @@ We then ran daily returns for the three segments and plotted them:
 Finally we modeled, fit and predicted the next 90 days for each segment:
 ![90 day forcasts](/90_DAY_FORCAST.png)
 
-
-
-
-
-
-
-
-
-
-
-
+You can see in the visualizations that the Mind Trip ETF is increasing slightly over the next 90 days, S&P 500 is forcasted to decrease over the next 90 days, meanwhile the PSYK ETF is forcasted to increase significantly over the next 90 days.
 
 
 ---
