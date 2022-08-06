@@ -48,6 +48,10 @@ PSYK ETF:
 
 ![PSYK ETF](/PSYK_ETF_CLOSE.png)
 
+S&P 500:
+
+[SP500](/SP500_Close.png)
+
 
 
 
