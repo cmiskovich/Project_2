@@ -62,6 +62,10 @@ You can see in the visualizations that the Mind Trip ETF is increasing slightly 
 
 ---
 
+##Presentation Link##
+
+[Presentation](https://docs.google.com/presentation/d/1hUbEMa7-H6ocAlZyrIXMvV8RSfoBfhsU1VeNEUhjuNA/edit#slide=id.g1f87997393_0_782)
+
 ## Information about datasets
 
 Create the alpaca API object:
